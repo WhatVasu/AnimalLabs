@@ -13,10 +13,10 @@ A beautiful, responsive web application for discovering and learning about anima
 ## Screenshots
 
 ### Homepage
-![Animal Labs Homepage](IMAGE_PLACEHOLDER_1)
+![Animal Labs Homepage](https://github.com/WhatVasu/AnimalLabs/blob/main/ss/IMG-20251207-WA0010.jpg)
 
 ### Animal Info Page
-![Animal Information Page](IMAGE_PLACEHOLDER_2)
+![Animal Information Page](https://github.com/WhatVasu/AnimalLabs/blob/main/ss/IMG-20251207-WA0011.jpg)
 
 ## Technologies Used
 
